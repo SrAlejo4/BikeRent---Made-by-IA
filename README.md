@@ -1,5 +1,9 @@
 # BikeRent---Made-by-IA
 
+Elaborado por:
+Alejandro García Sánchez
+Kevin Andrés Jaramillo Hernández
+
 Prompt - Requerimientos e historias de usuario
 Quiero que diseñes un sistema para gestionar el préstamo de bicicletas con el siguiente objetivo:
 El sistema debe calcular el costo del préstamo a partir de los minutos que tarde el préstamo. Los usuarios deben poder acceder a la información de disponibilidad, precio por hora y características de las bicicletas.
