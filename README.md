@@ -1,7 +1,8 @@
 # BikeRent---Made-by-IA
 
 Elaborado por:
-Alejandro García Sánchez,
+
+Alejandro García Sánchez
 
 Kevin Andrés Jaramillo Hernández
 
